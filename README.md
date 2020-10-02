@@ -1,2 +1,2 @@
 # rakib
-wed desiner
+wed designer
